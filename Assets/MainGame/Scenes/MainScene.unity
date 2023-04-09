@@ -2611,10 +2611,18 @@ PrefabInstance:
       propertyPath: _minigameManager
       value: 
       objectReference: {fileID: 1214512626}
+    - target: {fileID: 5637639743625552026, guid: 13e5ea0e53894b141882d007a8578dcb, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5637639743649819649, guid: 13e5ea0e53894b141882d007a8578dcb, type: 3}
       propertyPath: parent
       value: 
       objectReference: {fileID: 828172490}
+    - target: {fileID: 5637639744204606941, guid: 13e5ea0e53894b141882d007a8578dcb, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5637639744420570244, guid: 13e5ea0e53894b141882d007a8578dcb, type: 3}
       propertyPath: m_SortingLayerID
       value: 0
