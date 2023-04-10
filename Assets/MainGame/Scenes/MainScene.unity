@@ -894,9 +894,25 @@ PrefabInstance:
       propertyPath: combinationLockTimeText
       value: 
       objectReference: {fileID: 22568937}
+    - target: {fileID: 5107252086275882978, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5107252086275882978, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5107252087062405059, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
       propertyPath: speed
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5107252087470635842, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5107252087470635842, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5450619682864738441, guid: e8b6bf1f649886b4aa48c6d8c60c3bdf, type: 3}
       propertyPath: m_RootOrder
